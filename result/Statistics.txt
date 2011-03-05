@@ -1,0 +1,3 @@
+Number of characters coded: 104372
+Number of bits used: 494220
+Space reduction percentage: 41%
